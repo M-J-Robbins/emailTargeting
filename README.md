@@ -1,3 +1,8 @@
+# This repo is no longer maintained and some of the content may be out of date.
+# Instead you can find all this information and more at https://howtotarget.email/
+
+------------
+
 # Email client CSS targeting 
 
 This is a list of tricks used to target individual email clients.  These are hacky and likely to change, use it as a list of possible suggestions not a set of reliable rules.
